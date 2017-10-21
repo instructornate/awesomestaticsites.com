@@ -1,5 +1,5 @@
 ---
-title: "Another Post"
+title: "Another post"
 date: 2017-10-20T13:52:41-07:00
 ---
 
