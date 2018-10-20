@@ -4,4 +4,4 @@
   publish = "public/"
 
   # Default build command.
-  command = "hugo build"
+  command = "hugo"
