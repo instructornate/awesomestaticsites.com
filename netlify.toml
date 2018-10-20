@@ -5,3 +5,6 @@
 
   # Default build command.
   command = "hugo"
+
+[context.production]
+  HUGO_VERSION = "0.49"
